@@ -1,0 +1,3 @@
+Used pandas to incorporate the data into program
+Used ridge(linear regresson) from matplotlib to predict the weather
+The maximum error in predition is 1.489054738379602 i.e the the predicted value is off by fahrenheit
